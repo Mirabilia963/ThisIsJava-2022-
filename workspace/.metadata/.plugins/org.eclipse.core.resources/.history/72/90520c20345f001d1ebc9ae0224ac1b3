@@ -1,0 +1,10 @@
+package day7;
+
+public class Exam37_Method3 {
+
+	public static void main(String[] args) {
+		Check.cm_Imember();
+		Check.cm_Cmember();
+	}
+
+}

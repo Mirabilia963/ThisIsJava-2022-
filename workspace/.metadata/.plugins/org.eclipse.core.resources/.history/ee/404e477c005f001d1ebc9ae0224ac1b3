@@ -1,0 +1,11 @@
+package day6;
+
+public class Exam31_Car {
+	boolean powerOn;
+	String color;
+	int whell;
+	int speed;
+	boolean wiperOn;
+	
+	
+}

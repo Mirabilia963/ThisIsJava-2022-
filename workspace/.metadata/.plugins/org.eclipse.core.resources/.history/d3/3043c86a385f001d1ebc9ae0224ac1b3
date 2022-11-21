@@ -1,0 +1,12 @@
+package day8;
+
+import packageA.PacA;
+
+public class Exam45_PacB {
+
+	public static void main(String[] args) {
+		PacA practice = new PacA();
+		practice.say();
+	}
+
+}

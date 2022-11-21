@@ -1,0 +1,11 @@
+package day8;
+
+public class PackageA {
+
+	public class PacA {
+		public void say() {
+			System.out.println("선생님 안녕하세요!");
+		}
+	}
+
+}

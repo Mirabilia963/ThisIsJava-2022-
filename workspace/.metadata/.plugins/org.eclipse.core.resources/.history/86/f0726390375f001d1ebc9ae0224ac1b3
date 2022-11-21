@@ -1,0 +1,10 @@
+package day8;
+
+public class Exam44_PacA {
+
+	public static void main(String[] args) {
+		PackageA.PacA practice = new PackageA.PacA();
+		practice.say();
+	}
+
+}

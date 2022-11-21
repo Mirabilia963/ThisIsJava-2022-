@@ -1,0 +1,15 @@
+package day8;
+
+public class Exam48_StaticModifier {
+
+	public static void main(String[] args) {
+		System.out.println(StaticPractice.number);
+		StaticPractice.say();
+		
+		FinalClass finalClass = new FinalClass();
+		finalClass.number1;
+		finalClass.number2;
+		System.out.println();
+	}
+
+}

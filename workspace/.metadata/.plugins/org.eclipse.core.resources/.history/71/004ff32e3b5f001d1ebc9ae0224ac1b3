@@ -1,0 +1,12 @@
+package day8;
+
+public class User1 {
+	public String name;
+	public int age;
+	
+	public User1(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+	
+}

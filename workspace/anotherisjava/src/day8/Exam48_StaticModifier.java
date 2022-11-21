@@ -1,0 +1,11 @@
+package day8;
+
+public class Exam48_StaticModifier {
+
+	public static void main(String[] args) {
+		System.out.println(StaticPractice.number);
+		StaticPractice.say();
+		
+	}
+
+}

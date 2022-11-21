@@ -1,0 +1,6 @@
+package day8;
+
+public class FinalClass {
+	final int number1 = 4;
+	public int number2 = 4;
+}

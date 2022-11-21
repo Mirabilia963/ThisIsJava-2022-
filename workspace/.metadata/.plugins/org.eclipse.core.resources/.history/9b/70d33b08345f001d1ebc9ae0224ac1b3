@@ -1,0 +1,34 @@
+package day7;
+
+public class Check {
+	static int cv = 5;
+	int iv = 4;
+	
+	static void cm() {
+		
+	}
+	
+	void im() {
+		
+	}
+	
+	static void cm_Imember() {
+		System.out.println(iv);
+//		im();
+	}
+	
+	void im_Cmember() {
+		System.out.println(cv);
+		cm();
+	}
+	
+	static void cm_Cmember() {
+		System.out.println(cv);
+		cm();
+	}
+	
+	void im_Imember() {
+		System.out.println(iv);
+		im();
+	}
+}

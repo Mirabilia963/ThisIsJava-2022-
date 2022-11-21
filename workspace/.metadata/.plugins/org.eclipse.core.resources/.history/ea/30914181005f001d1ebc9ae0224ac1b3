@@ -1,0 +1,11 @@
+package day6;
+
+public class Exam32_Class_Practice {
+
+	public static void main(String[] args) {
+		Exam31_Car myCar = new Exam31_Car();
+		
+		System.out.println(" 시동 처음 초기화: " + myCar.po);
+	}
+
+}

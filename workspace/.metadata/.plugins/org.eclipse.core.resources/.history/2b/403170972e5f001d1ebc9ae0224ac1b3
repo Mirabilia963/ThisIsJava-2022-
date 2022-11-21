@@ -1,0 +1,12 @@
+package day7;
+
+public class Exam36_Method2 {
+
+	public static void main(String[] args) {
+		
+		Area.manual();
+		Area.triangle(3,5);
+		
+	}
+
+}
